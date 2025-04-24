@@ -1,0 +1,31 @@
+text_file package
+*****************
+
+
+Submodules
+==========
+
+
+text_file.my_module module
+==========================
+
+This module contains a simple class for greeting.
+
+class text_file.my_module.Greeter(name)
+
+   Bases: "object"
+
+   A simple Greeter class.
+
+   greet()
+
+      Return a greeting message.
+
+      Returns:
+         A string greeting the person.
+
+
+Module contents
+===============
+
+text_file package

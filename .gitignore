@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# Sphinx build folder
+_build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+

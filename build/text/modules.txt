@@ -1,0 +1,14 @@
+text_file
+*********
+
+* text_file package
+
+  * Submodules
+
+  * text_file.my_module module
+
+    * "Greeter"
+
+      * "Greeter.greet()"
+
+  * Module contents
